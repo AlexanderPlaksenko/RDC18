@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="386px" height="290px" viewBox="0 0 386 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFC649" offset="0%"></stop>
+            <stop stop-color="#FD00BB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="RDC18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="#1-Home-v.4.1" transform="translate(-127.000000, -3462.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Judges" transform="translate(109.000000, 3123.000000)">
+                <g id="judges-skroll" transform="translate(0.000000, 212.000000)">
+                    <g id="orlov" transform="translate(0.000000, 39.000000)">
+                        <path d="M241.050089,96.3983148 L369.453481,165.681797 C398.763155,181.496615 411.045428,217.146638 397.696354,247.6584 L357.630623,339.235989 C347.438909,362.531023 324.423627,377.583296 298.996679,377.583296 L122.321357,377.583296 C96.89441,377.583296 73.8791277,362.531023 63.6874139,339.235989 L23.6216829,247.6584 C10.2726084,217.146638 22.5548817,181.496615 51.8645553,165.681797 L180.267947,96.3983148 C199.236125,86.1635277 222.081912,86.1635277 241.050089,96.3983148 Z" id="Mask"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
